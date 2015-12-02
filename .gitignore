@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Images
+data/imgs/
+
+.DS_Store
+data/.DS_Store
