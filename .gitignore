@@ -64,3 +64,5 @@ data/imgs/
 
 .DS_Store
 data/.DS_Store
+
+.idea/
